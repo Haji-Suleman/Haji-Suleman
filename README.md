@@ -35,7 +35,7 @@ I'm an **aspiring Full-Stack Developer and AI/ML enthusiast** with a passion for
 ## 📫 Connect with Me
 
 - GitHub: [https://github.com/Haji-Suleman](https://github.com/Haji-Suleman)  
-- LinkedIn: [Your LinkedIn URL]  
+- LinkedIn: [(https://www.linkedin.com/in/haji-suleman-553753369/)]  
 - Email: [mirhajisulemanjamali@gmail.com]  
 
 ---
