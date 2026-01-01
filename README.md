@@ -1,45 +1,48 @@
-# Hi there 👋, I'm Haji Suleman
+# Hello ????, I am Haji
 
-I'm an **aspiring Full-Stack Developer and AI/ML enthusiast** with a passion for building web applications and exploring cutting-edge technologies.  
-
----
-
-## 🚀 About Me
-
-- 🌐 I specialize in **React.js, Node.js, TypeScript, and NestJS**  
-- 🤖 Currently learning **Machine Learning and AI**  
-- 💾 Experienced with **MongoDB, SQL, and backend development**  
-- 🎯 Passionate about creating **clean, efficient, and scalable projects**  
-- 💡 Always exploring new tools and frameworks to improve my skills  
+I am an aspiring **Full-Stack Developer** and **AI/ML Enthusiast**.
 
 ---
 
-## 🔧 Tech Stack
+# ???? About Me
+About
 
-**Frontend:** HTML, CSS, JavaScript, React.js, Tailwind CSS  
-**Backend:** Node.js, Express.js, NestJS  
-**Database:** MongoDB, MySQL  
-**Languages:** JavaScript, TypeScript, Python, C++  
+- ???? Area of Expertise **React.js, Node.js, TypeScript, Nest.JS
+- ???? Learning about **Machine Learning and AI**
+- ???? Skilled in **MongoDB, SQL, and back-end development**
+- ???? Passionate about creating projects that are clean, efficient, and scalable
 
----
-
-## 🌟 What I Do
-
-- Build **full-stack web applications**  
-- Integrate **AI/ML features** into projects  
-- Work on **backend architecture** and **API development**  
-- Create **interactive and responsive frontend designs**  
+- ???? Continuously looking for new tools and technologies to develop my skills
 
 ---
 
-## 📫 Connect with Me
+## ????️ Tech Stack
+**Front End:** HTML, CSS, JavaScript, React.js, Tail
+**Backend:**
 
-- GitHub: [https://github.com/Haji-Suleman](https://github.com/Haji-Suleman)  
-- LinkedIn: [(https://www.linkedin.com/in/haji-suleman-553753369/)]  
-- Email: [mirhajisulemanjamali@gmail.com]  
+    - Node.js
+
+**Database:** MongoDB, MySQL
+
+*Languages:* JavaScript, TypeScript, Python, C
 
 ---
+## ???? What I Do
 
-## ⚡ Fun Fact
+In my
+- Develop **full stack web applications**
 
-I enjoy **learning new programming languages**, experimenting with AI projects, and **solving complex problems** just for fun!
+- Incorporate **AI/ML functionality** within projects
+
+- **Backend architecture** and **API development**
+
+- develop interactive and responsive frontend designs
+<div
+
+## ???? Connect with Me
+
+- GitHub: [https://
+
+- LinkedIn: [](/https - Email: [mirh --- ## ⚡ Fun Fact
+
+There In addition, I enjoy **programming in new programming languages, working on AI projects,** and **resolving tough problems** for fun.
