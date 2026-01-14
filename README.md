@@ -1,45 +1,90 @@
-# Hi there 👋, I'm Haji Suleman
+# Hi 👋, I'm **Haji**
 
-I'm an **aspiring Full-Stack Developer and AI/ML enthusiast** with a passion for building web applications and exploring cutting-edge technologies.  
-
----
-
-## 🚀 About Me
-
-- 🌐 I specialize in **React.js, Node.js, TypeScript, and NestJS**  
-- 🤖 Currently learning **Machine Learning and AI**  
-- 💾 Experienced with **MongoDB, SQL, and backend development**  
-- 🎯 Passionate about creating **clean, efficient, and scalable projects**  
-- 💡 Always exploring new tools and frameworks to improve my skills  
+An **AI/ML-oriented Full-Stack Developer** with strong backend skills and a growing, disciplined foundation in mathematics. I focus on building scalable systems while preparing deeply for Machine Learning and AI research.
 
 ---
 
-## 🔧 Tech Stack
+##  About Me
 
-**Frontend:** HTML, CSS, JavaScript, React.js, Tailwind CSS  
-**Backend:** Node.js, Express.js, NestJS  
-**Database:** MongoDB, MySQL  
-**Languages:** JavaScript, TypeScript, Python, C++  
-
----
-
-## 🌟 What I Do
-
-- Build **full-stack web applications**  
-- Integrate **AI/ML features** into projects  
-- Work on **backend architecture** and **API development**  
-- Create **interactive and responsive frontend designs**  
+-  Passionate about **Artificial Intelligence & Machine Learning**
+-  Strong interest in **backend engineering, system design, and APIs**
+-  Full-stack development as a **supporting skill**, not the end goal
+-  Actively strengthening **mathematics for ML & AI**
+-  Focused on **clean, efficient, and scalable architectures**
+-  Curious about **security, data systems, and intelligent software**
 
 ---
 
-## 📫 Connect with Me
+##  Mathematical Background
 
-- GitHub: [https://github.com/Haji-Suleman](https://github.com/Haji-Suleman)  
-- LinkedIn: [(https://www.linkedin.com/in/haji-suleman-553753369/)]  
-- Email: [mirhajisulemanjamali@gmail.com]  
+- Linear Algebra (vectors, matrices, dot products)
+- Probability & Statistics (foundations)
+- Functions, graphs, and gradients
+- Algebraic problem solving & logical reasoning
+- Continuously improving math for **Machine Learning & AI research**
 
 ---
 
-## ⚡ Fun Fact
+##  Tech Stack
 
-I enjoy **learning new programming languages**, experimenting with AI projects, and **solving complex problems** just for fun!
+### AI / ML
+- Python, NumPy
+- PyTorch (learning)
+- Core ML concepts: regression, loss functions, optimization
+
+### Backend
+- Node.js, Express.js, NestJS
+- RESTful APIs, authentication, backend architecture
+
+### Databases
+- MongoDB
+- MySQL
+
+### Frontend (Supporting Skill)
+- React.js
+- HTML, CSS, Tailwind CSS
+
+### Languages
+- JavaScript
+- TypeScript
+- Python
+- C++
+
+---
+
+##  What I Work On
+
+- Backend-heavy full-stack applications
+- Integrating **AI/ML features** into real systems
+- Designing clean APIs and backend logic
+- Bridging **math → ML → production-level projects**
+
+---
+
+##  Books I’m Reading / Have Read
+
+### Machine Learning
+- *Hands-On Machine Learning* — Aurélien Géron
+
+### Mathematics
+- *SAT Math Bible* — Jeff Kolby  
+- *PWN the SAT Math Guide* — Mike McClenath  
+- *Master the SAT Subject Test: Math Levels 1 & 2* — Mark N. Weinfeld  
+- *SAT Subject Test Math Level 1* — McGraw-Hill  
+- *Barron’s SAT Subject Test*  
+- *Panda’s SAT Math*  
+- *How to Solve Word Problems in Algebra* — Mildred Johnson  
+
+---
+
+##  Connect With Me
+
+- GitHub: https://github.com/Haji-Suleman  
+- LinkedIn: https://www.linkedin.com/in/haji-suleman-553753369/  
+- Email: mirhajisulemanjamali@gmail.com  
+
+---
+
+##  Fun Fact
+
+I enjoy working on problems that require **deep thinking**, strengthening my math for AI, and learning things most people avoid — purely for growth 
