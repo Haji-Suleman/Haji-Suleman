@@ -1,40 +1,44 @@
 # Hi 👋, I'm **Haji**
 
-An **AI/ML-oriented Full-Stack Developer** with strong backend skills and a growing, disciplined foundation in mathematics. I focus on building scalable systems while preparing deeply for Machine Learning and AI research.
+# Haji Suleman
+
+**AI & Machine Learning–oriented Developer** with a strong backend engineering foundation and a disciplined focus on mathematics.  
+I am building scalable software systems while preparing for advanced work in Machine Learning and AI research.
 
 ---
 
-##  About Me
+## Profile
 
--  Passionate about **Artificial Intelligence & Machine Learning**
--  Strong interest in **backend engineering, system design, and APIs**
--  Full-stack development as a **supporting skill**, not the end goal
--  Actively strengthening **mathematics for ML & AI**
--  Focused on **clean, efficient, and scalable architectures**
--  Curious about **security, data systems, and intelligent software**
+- Focused on **Artificial Intelligence and Machine Learning** (theory + implementation)
+- Strong interest in **backend engineering, system design, and API architecture**
+- Full-stack development used as an **engineering tool**, not the primary objective
+- Actively strengthening **mathematical foundations required for ML & AI**
+- Emphasis on **clean code, performance, and scalability**
+- Curious about **security, data systems, and intelligent software architectures**
 
 ---
 
-##  Mathematical Background
+## Mathematical Foundation
 
-- Linear Algebra (vectors, matrices, dot products)
-- Probability & Statistics (foundations)
+- Linear Algebra: vectors, matrices, dot products
+- Probability & Statistics: foundational concepts
 - Functions, graphs, and gradients
-- Algebraic problem solving & logical reasoning
-- Continuously improving math for **Machine Learning & AI research**
+- Algebraic problem solving and logical reasoning
+- Continuous math preparation for **Machine Learning and AI research**
 
 ---
 
-##  Tech Stack
+## Technical Skills
 
-### AI / ML
+### Machine Learning / AI
 - Python, NumPy
-- PyTorch (learning)
-- Core ML concepts: regression, loss functions, optimization
+- PyTorch (in progress)
+- Core ML concepts: regression, loss functions, optimization methods
 
-### Backend
+### Backend Engineering
 - Node.js, Express.js, NestJS
-- RESTful APIs, authentication, backend architecture
+- RESTful API design
+- Authentication and backend architecture
 
 ### Databases
 - MongoDB
@@ -44,7 +48,7 @@ An **AI/ML-oriented Full-Stack Developer** with strong backend skills and a grow
 - React.js
 - HTML, CSS, Tailwind CSS
 
-### Languages
+### Programming Languages
 - JavaScript
 - TypeScript
 - Python
@@ -52,19 +56,19 @@ An **AI/ML-oriented Full-Stack Developer** with strong backend skills and a grow
 
 ---
 
-##  What I Work On
+## Current Focus
 
-- Backend-heavy full-stack applications
-- Integrating **AI/ML features** into real systems
-- Designing clean APIs and backend logic
-- Bridging **math → ML → production-level projects**
+- Backend-centric full-stack applications
+- Integrating ML components into production-oriented systems
+- Designing maintainable and scalable APIs
+- Converting **mathematical concepts into working ML implementations**
 
 ---
 
-##  Books I’m Reading / Have Read
+## Books & Learning Resources
 
 ### Machine Learning
-- *Hands-On Machine Learning* — Aurélien Géron
+- *Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow* — Aurélien Géron
 
 ### Mathematics
 - *SAT Math Bible* — Jeff Kolby  
@@ -77,7 +81,7 @@ An **AI/ML-oriented Full-Stack Developer** with strong backend skills and a grow
 
 ---
 
-##  Connect With Me
+## Contact
 
 - GitHub: https://github.com/Haji-Suleman  
 - LinkedIn: https://www.linkedin.com/in/haji-suleman-553753369/  
@@ -85,6 +89,6 @@ An **AI/ML-oriented Full-Stack Developer** with strong backend skills and a grow
 
 ---
 
-##  Fun Fact
+## Note
 
-I enjoy working on problems that require **deep thinking**, strengthening my math for AI, and learning things most people avoid — purely for growth 
+I am intentionally investing time in **mathematics and fundamentals** to build a strong long-term foundation for AI and Machine Learning rather than focusing only on short-term tools.
