@@ -28,7 +28,7 @@ I build scalable software systems and am preparing for advanced work in Machine 
 ## 🌟 Projects
 
 - [Food eCommerce](https://github.com/Haji-Suleman/food-ecommerce) - Full-stack food ordering system with Node.js & MongoDB  
-- [PyTorch Regression Demo](https://github.com/Haji-Suleman/pytorch-regression) - Linear regression model implemented in PyTorch  
+- [PyTorch Regression Demo](https://github.com/Haji-Suleman/pytorch) - Linear regression model implemented in PyTorch  
 - [Calculator App](https://github.com/Haji-Suleman/calculator) - Basic arithmetic calculator in Python  
 
 ---
