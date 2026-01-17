@@ -5,12 +5,6 @@ I build scalable software systems and am preparing for advanced work in Machine 
 
 ---
 
-## 📊 GitHub Stats
-![Haji's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Haji-Suleman&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Haji-Suleman&layout=compact&theme=radical)
-
----
-
 ## 🛠️ Tech Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
