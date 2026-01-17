@@ -43,13 +43,6 @@ I build scalable software systems and am preparing for advanced work in Machine 
 
 ---
 
-## 🏆 GitHub Achievements
-![YOLO](https://raw.githubusercontent.com/Haji-Suleman/Haji-Suleman/main/assets/yolo.svg)
-![Pull Shark](https://raw.githubusercontent.com/Haji-Suleman/Haji-Suleman/main/assets/pull-shark.svg)
-![Quickdraw](https://raw.githubusercontent.com/Haji-Suleman/Haji-Suleman/main/assets/quickdraw.svg)
-
----
-
 ## 💡 About Me
 
 - 🎯 Focused on **Machine Learning, AI, and backend system design**  
