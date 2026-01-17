@@ -1,33 +1,57 @@
 # Hi there 👋, I’m **Haji Suleman**
 
-**AI / Machine Learning-oriented Developer** with a strong backend foundation and a disciplined focus on mathematics.  
+**AI / Machine Learning-oriented Developer** with a strong backend engineering foundation and a disciplined focus on mathematics.  
 I build scalable software systems and am preparing for advanced work in Machine Learning and AI.
 
 ---
 
-## 🛠️ Tech Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+## About Me
+
+- 🎯 Focused on **Machine Learning, AI, and backend system design**
+- 🛠️ Strong backend experience with Node.js, NestJS, and API architecture
+- 🧠 Continuously strengthening **mathematical fundamentals for ML**
+- 📈 Applying clean code practices, reliability, and performance in software
+- 💡 Curious about **security, data systems, and intelligent applications**
 
 ---
 
-## 🌟 Projects
+## What I’m Doing
 
-- [Food eCommerce](https://github.com/Haji-Suleman/food-ecommerce) - Full-stack food ordering system with Node.js & MongoDB  
-- [PyTorch Regression Demo](https://github.com/Haji-Suleman/pytorch) - Linear regression model implemented in PyTorch  
-- [Calculator App](https://github.com/Haji-Suleman/calculator) - Basic arithmetic calculator in Python  
+- Backend-centric full-stack solutions  
+- Integrating **ML features** into real systems  
+- Designing maintainable APIs and backend logic  
+- Converting **mathematical concepts into usable ML implementations**
 
 ---
 
-## 📖 Books & Resources I’ve Read
+## Tech Stack
+
+**Machine Learning / AI**
+- Python, NumPy
+- PyTorch (in progress)
+- Regression, optimization, loss functions
+
+**Backend**
+- Node.js, Express.js, NestJS
+- RESTful APIs and authentication
+
+**Databases**
+- MongoDB  
+- MySQL
+
+**Frontend (Supporting)**
+- React.js  
+- HTML, CSS, Tailwind CSS  
+
+**Languages**
+- JavaScript  
+- TypeScript  
+- Python  
+- C++
+
+---
+
+## Books & Resources I have Read
 
 **Machine Learning**
 - *Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow* — Aurélien Géron
@@ -43,22 +67,14 @@ I build scalable software systems and am preparing for advanced work in Machine 
 
 ---
 
-## 💡 About Me
-
-- 🎯 Focused on **Machine Learning, AI, and backend system design**  
-- 🛠️ Strong backend experience with Node.js, NestJS, and API architecture  
-- 🧠 Continuously strengthening **mathematical fundamentals for ML**  
-- 📈 Applying clean code practices, reliability, and performance in software  
-- 💡 Curious about **security, data systems, and intelligent applications**
-
----
-
 ## 📫 Connect With Me
 
-- GitHub: [https://github.com/Haji-Suleman](https://github.com/Haji-Suleman)  
-- LinkedIn: [https://www.linkedin.com/in/haji-suleman-553753369/](https://www.linkedin.com/in/haji-suleman-553753369/)  
+- GitHub: https://github.com/Haji-Suleman  
+- LinkedIn: https://www.linkedin.com/in/haji-suleman-553753369/  
 - Email: mirhajisulemanjamali@gmail.com  
 
 ---
 
-⚡ I intentionally prioritize **math, fundamentals, and durable engineering skills** to build a long-term foundation for AI & ML, not just short-term tools.
+## ⚡ Note
+
+I intentionally prioritize **math, fundamentals, and durable engineering skills** to build a long-term foundation for AI & ML, not just short-term tools.
