@@ -72,9 +72,9 @@ I build scalable software systems and am preparing for advanced work in Machine 
 - GitHub: https://github.com/Haji-Suleman  
 - LinkedIn: https://www.linkedin.com/in/haji-suleman-553753369/  
 - Email: mirhajisulemanjamali@gmail.com  
-
+- Number: +923079852568
 ---
 
-## ⚡ Note
+### ⚡ Note
 
 I intentionally prioritize **math, fundamentals, and durable engineering skills** to build a long-term foundation for AI & ML, not just short-term tools.
