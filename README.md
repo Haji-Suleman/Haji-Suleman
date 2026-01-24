@@ -1,16 +1,16 @@
 # Hi there 👋, I’m **Haji Suleman**
 
-**AI / Machine Learning-oriented Developer** with a strong backend engineering foundation and a disciplined focus on mathematics.  
-I build scalable software systems and am preparing for advanced work in Machine Learning and AI.
+**AI / Machine Learning-focused Developer** with a strong backend engineering foundation and a disciplined focus on mathematics.  
+I build scalable backend systems and integrate ML concepts into real-world applications.
 
 ---
 
 ## About Me
 
-- 🎯 Focused on **Machine Learning, AI, and backend system design**
-- 🛠️ Strong backend experience with Node.js, NestJS, and API architecture
-- 🧠 Continuously strengthening **mathematical fundamentals for ML**
-- 📈 Applying clean code practices, reliability, and performance in software
+- 🎯 Focused on **Machine Learning, AI, and backend system design**  
+- 🛠️ Strong backend experience: Node.js, NestJS, REST APIs  
+- 🧠 Strengthening **math fundamentals for ML**  
+- 📈 Applying clean code, reliability, and performance in software  
 - 💡 Curious about **security, data systems, and intelligent applications**
 
 ---
@@ -18,7 +18,7 @@ I build scalable software systems and am preparing for advanced work in Machine 
 ## What I’m Doing
 
 - Backend-centric full-stack solutions  
-- Integrating **ML features** into real systems  
+- Integrating **ML features** into applications  
 - Designing maintainable APIs and backend logic  
 - Converting **mathematical concepts into usable ML implementations**
 
@@ -26,55 +26,46 @@ I build scalable software systems and am preparing for advanced work in Machine 
 
 ## Tech Stack
 
-**Machine Learning / AI**
-- Python, NumPy
-- PyTorch (in progress)
-- Regression, optimization, loss functions
+**Machine Learning / AI:** Python, NumPy, PyTorch (in progress), regression & optimization  
 
-**Backend**
-- Node.js, Express.js, NestJS
-- RESTful APIs and authentication
+**Backend:** Node.js, Express.js, NestJS, REST APIs, authentication  
 
-**Databases**
-- MongoDB  
-- MySQL
+**Databases:** MongoDB, MySQL  
 
-**Frontend (Supporting)**
-- React.js  
-- HTML, CSS, Tailwind CSS  
+**Frontend (supporting):** React.js, HTML, CSS, Tailwind CSS  
 
-**Languages**
-- JavaScript  
-- TypeScript  
-- Python  
-- C++
+**Languages:** JavaScript, TypeScript, Python, C++  
 
 ---
 
-## Books & Resources I have Read
+## Profile Stats
 
-**Machine Learning**
-- *Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow* — Aurélien Géron
+![Profile Views](https://komarev.com/ghpvc/?username=Haji-Suleman&color=blue&style=flat)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Haji-Suleman&show_icons=true&theme=radical)
 
-**Mathematics**
+---
+
+## 📚 Key Reads
+
+**Machine Learning:**  
+- *Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow* — Aurélien Géron  
+
+**Mathematics:**  
 - *SAT Math Bible* — Jeff Kolby  
 - *PWN the SAT Math Guide* — Mike McClenath  
-- *Master the SAT Subject Test: Math Levels 1 & 2* — Mark N. Weinfeld  
-- *SAT Subject Test Math Level 1* — McGraw-Hill  
+- *Master the SAT Subject Test: Math Levels 1 & 2* — Weinfeld  
 - *Barron’s SAT Subject Test*  
-- *Panda’s SAT Math*  
-- *How to Solve Word Problems in Algebra* — Mildred Johnson
+- *How to Solve Word Problems in Algebra* — Mildred Johnson  
 
 ---
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/Haji-Suleman  
-- LinkedIn: https://www.linkedin.com/in/haji-suleman-553753369/  
+- GitHub: [Haji-Suleman](https://github.com/Haji-Suleman)  
+- LinkedIn: [Haji Suleman](https://www.linkedin.com/in/haji-suleman-553753369/)  
 - Email: mirhajisulemanjamali@gmail.com  
-- Number: +923079852568
+
 ---
 
 ### ⚡ Note
-
-I intentionally prioritize **math, fundamentals, and durable engineering skills** to build a long-term foundation for AI & ML, not just short-term tools.
+I prioritize **math, fundamentals, and durable engineering skills** to build a long-term foundation for AI & ML, not just short-term tools.
