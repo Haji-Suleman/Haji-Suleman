@@ -38,9 +38,6 @@ I build scalable backend systems and integrate ML concepts into real-world appli
 ![Profile Views](https://komarev.com/ghpvc/?username=Haji-Suleman&color=blue&style=flat)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Haji-Suleman&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Haji-Suleman&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Haji-Suleman&theme=radical)  
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Haji-Suleman&theme=react-dark)
-
 ---
 
 ## Featured Projects
