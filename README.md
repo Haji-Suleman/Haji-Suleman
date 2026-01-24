@@ -45,9 +45,9 @@ I build scalable backend systems and integrate ML concepts into real-world appli
 
 ## Featured Projects
 
-- [ML Classification](https://github.com/Haji-Suleman/ML-Classification) ![Stars](https://img.shields.io/github/stars/Haji-Suleman/ML-Classification?style=social)  
-- [Doctor-Patient Web App](https://github.com/Haji-Suleman/Doctor-Patient-App) ![Stars](https://img.shields.io/github/stars/Haji-Suleman/Doctor-Patient-App?style=social)  
-- [Full-Stack Food eCommerce](https://github.com/Haji-Suleman/Food-eCommerce) ![Stars](https://img.shields.io/github/stars/Haji-Suleman/Food-eCommerce?style=social)  
+- [ML Classification](https://github.com/Haji-Suleman/Pytorch) ![Stars](https://img.shields.io/github/stars/Haji-Suleman/ML-Classification?style=social)  
+- [Doctor-Patient Web App](https://github.com/Haji-Suleman/Medical-and-Patient) ![Stars](https://img.shields.io/github/stars/Haji-Suleman/Doctor-Patient-App?style=social)  
+- [Full-Stack Food eCommerce](https://github.com/Haji-Suleman/Food-Delivery) ![Stars](https://img.shields.io/github/stars/Haji-Suleman/Food-eCommerce?style=social)  
 
 ---
 
