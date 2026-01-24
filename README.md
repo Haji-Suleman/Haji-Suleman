@@ -33,11 +33,21 @@ I build scalable backend systems and integrate ML concepts into real-world appli
 
 ---
 
-## Stats
+## GitHub Stats & Activity
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Haji-Suleman&color=blue&style=flat)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Haji-Suleman&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Haji-Suleman&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Haji-Suleman&theme=radical)  
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Haji-Suleman&theme=react-dark)
+
+---
+
+## Featured Projects
+
+- [ML Classification](https://github.com/Haji-Suleman/ML-Classification) ![Stars](https://img.shields.io/github/stars/Haji-Suleman/ML-Classification?style=social)  
+- [Doctor-Patient Web App](https://github.com/Haji-Suleman/Doctor-Patient-App) ![Stars](https://img.shields.io/github/stars/Haji-Suleman/Doctor-Patient-App?style=social)  
+- [Full-Stack Food eCommerce](https://github.com/Haji-Suleman/Food-eCommerce) ![Stars](https://img.shields.io/github/stars/Haji-Suleman/Food-eCommerce?style=social)  
 
 ---
 
@@ -48,12 +58,13 @@ I build scalable backend systems and integrate ML concepts into real-world appli
 
 ---
 
-## 📫 Connect
+## 📫 Connect With Me
 
-- GitHub: [Haji-Suleman](https://github.com/Haji-Suleman)  
-- LinkedIn: [Haji Suleman](https://www.linkedin.com/in/haji-suleman-553753369/)  
+- [GitHub](https://github.com/Haji-Suleman)  
+- [LinkedIn](https://www.linkedin.com/in/haji-suleman-553753369/)  
 - Email: mirhajisulemanjamali@gmail.com  
+- Portfolio: [Your Portfolio](https://your-portfolio-link.com)  
 
 ---
 
-⚡ I focus on **math, fundamentals & durable engineering skills** for a strong AI/ML foundation.
+⚡ I focus on **math, fundamentals & durable engi**
