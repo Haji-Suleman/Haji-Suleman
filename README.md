@@ -33,19 +33,6 @@ I build **scalable backend systems** and integrate **ML concepts** into real-wor
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Haji-Suleman&color=blue&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Haji-Suleman&show_icons=true&theme=radical" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haji-Suleman&layout=compact&theme=radical" alt="Top Languages" width="49%" />
-</p>
-
----
-
 ## 🌟 Featured Projects
 
 | Project | Description | Stars |
