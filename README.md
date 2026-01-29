@@ -10,7 +10,7 @@ I build scalable backend systems and integrate machine learning into real-world 
 - Security, Data Systems & Scalable Design  
 
 ## Tech Stack  
-**AI/ML:** Python, NumPy, PyTorch, Pandas, MatPlotlib, SeaBorn
+**AI/ML:** Python, NumPy, PyTorch, Pandas, MatPlotlib, SeaBorn   
 **Backend:** Node.js, NestJS, Express.js  
 **Databases:** MongoDB, MySQL  
 **Frontend:** React.js, HTML, CSS, Tailwind  
