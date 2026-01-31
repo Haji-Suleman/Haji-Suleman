@@ -3,6 +3,8 @@
 
 I build scalable backend systems and integrate machine learning into real-world applications. I focus on strong fundamentals, clean architecture, and production-ready code.
 
+📚 Have read **50+ mathematics books** to strengthen my theoretical foundations.
+
 ## Core Focus  
 - Machine Learning & Applied AI  
 - Backend Architecture (Node.js, NestJS, REST APIs)  
@@ -10,7 +12,7 @@ I build scalable backend systems and integrate machine learning into real-world 
 - Security, Data Systems & Scalable Design  
 
 ## Tech Stack  
-**AI/ML:** Python, NumPy, PyTorch, Pandas, MatPlotlib, SeaBorn   
+**AI/ML:** Python, NumPy, PyTorch, Pandas, MatPlotlib, SeaBorn  
 **Backend:** Node.js, NestJS, Express.js  
 **Databases:** MongoDB, MySQL  
 **Frontend:** React.js, HTML, CSS, Tailwind  
