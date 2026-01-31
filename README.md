@@ -1,30 +1,39 @@
 # Hi, I’m Haji Suleman 👋  
-🚀 AI/ML-Focused Developer | Backend Engineer  
+🚀 AI/ML-Focused Developer | Backend Engineer | Math Enthusiast  
 
-I build scalable backend systems and integrate machine learning into real-world applications. I focus on strong fundamentals, clean architecture, and production-ready code.
+I design **scalable backend systems** and integrate **machine learning** into real-world applications, guided by **rigorous mathematical reasoning**.  
+I focus on **clean architecture, provable correctness, and production-ready systems**.  
 
-📚 Have read **50+ mathematics books** to strengthen my theoretical foundations.
+📚 Strengthened my foundations by reading **50+ mathematics books**, spanning linear algebra, probability, combinatorics, and discrete mathematics.  
 
-## Core Focus  
-- Machine Learning & Applied AI  
-- Backend Architecture (Node.js, NestJS, REST APIs)  
-- Math & Algorithms for ML and Systems  
-- Security, Data Systems & Scalable Design  
+---
 
-## Tech Stack  
-**AI/ML:** Python, NumPy, PyTorch, Pandas, MatPlotlib, SeaBorn  
+## Core Focus
+- **Mathematics for Computing:** Linear Algebra, Probability, Statistics, Graph Theory, Optimization  
+- **Machine Learning & Applied AI:** Model design grounded in mathematical rigor  
+- **Backend Architecture & Algorithms:** Scalable, secure, and provably efficient systems  
+- **System Design & Data Structures:** Algorithmic thinking meets production engineering  
+
+---
+
+## Tech Stack
+**AI/ML:** Python, NumPy, PyTorch, Pandas, Matplotlib, Seaborn  
 **Backend:** Node.js, NestJS, Express.js  
 **Databases:** MongoDB, MySQL  
 **Frontend:** React.js, HTML, CSS, Tailwind  
-**Languages:** JavaScript, TypeScript, Python, C++  
+**Languages:** Python, C++, JavaScript, TypeScript  
 
-## Selected Projects  
-- ML Classification (PyTorch — classification & regression)  
-- Doctor-Patient Web App (Full-stack healthcare platform)  
-- Full-Stack Food eCommerce (Auth, payments, ordering system)  
+---
 
-## Connect  
-GitHub: https://github.com/Haji-Suleman  
-LinkedIn: https://www.linkedin.com/in/haji-suleman-553753369/  
+## Selected Projects
+- **Mathematically-Informed ML Classification:** Implemented classification & regression models with careful feature engineering and error analysis  
+- **Doctor-Patient Web App:** Full-stack platform with **robust authentication, data consistency, and algorithmic scheduling**  
+- **Full-Stack eCommerce System:** Optimized ordering and payment flows with **algorithmic efficiency and secure data handling**  
 
-⚡ Focused on fundamentals, math, and scalable backend engineering.
+---
+
+## Connect
+GitHub: [https://github.com/Haji-Suleman](https://github.com/Haji-Suleman)  
+LinkedIn: [https://www.linkedin.com/in/haji-suleman-553753369/](https://www.linkedin.com/in/haji-suleman-553753369/)  
+
+⚡ **Building systems with math, algorithms, and scalable engineering as the foundation.**
