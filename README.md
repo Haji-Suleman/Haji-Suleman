@@ -17,7 +17,7 @@ I focus on **clean architecture, provable correctness, and production-ready syst
 ---
 
 ## Tech Stack
-**AI/ML:** Python, NumPy, PyTorch, Pandas, Matplotlib, Seaborn  
+**AI/ML:** Python, NumPy, **PyTorch**, **Scikit-learn**, Pandas, Matplotlib, Seaborn  
 **Backend:** Node.js, NestJS, Express.js  
 **Databases:** MongoDB, MySQL  
 **Frontend:** React.js, HTML, CSS, Tailwind  
