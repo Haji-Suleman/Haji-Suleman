@@ -1,39 +1,102 @@
 # Hi, I’m Haji Suleman 👋  
-🚀 AI/ML-Focused Developer | Backend Engineer | Math Enthusiast  
+🚀 AI Systems Engineer in Training | Backend Architect | Mathematical Computing  
 
-I design **scalable backend systems** and integrate **machine learning** into real-world applications, guided by **rigorous mathematical reasoning**.  
-I focus on **clean architecture, provable correctness, and production-ready systems**.  
+I build **scalable backend systems** and integrate **machine learning models** grounded in strong mathematical foundations.  
+My focus lies at the intersection of **deep learning, optimization, and production-grade engineering**.
 
-📚 Strengthened my foundations by reading **50+ mathematics books**, spanning linear algebra, probability, combinatorics, and discrete mathematics.  
-
----
-
-## Core Focus
-- **Mathematics for Computing:** Linear Algebra, Probability, Statistics, Graph Theory, Optimization  
-- **Machine Learning & Applied AI:** Model design grounded in mathematical rigor  
-- **Backend Architecture & Algorithms:** Scalable, secure, and provably efficient systems  
-- **System Design & Data Structures:** Algorithmic thinking meets production engineering  
+> I approach software and AI with mathematical rigor, algorithmic clarity, and architectural discipline.
 
 ---
 
-## Tech Stack
-**AI/ML:** Python, NumPy, **PyTorch**, **Scikit-learn**, Pandas, Matplotlib, Seaborn  
-**Backend:** Node.js, NestJS, Express.js  
-**Databases:** MongoDB, MySQL  
-**Frontend:** React.js, HTML, CSS, Tailwind  
-**Languages:** Python, C++, JavaScript, TypeScript  
+## 🎯 Research & Technical Interests
+
+- Deep Learning Architectures (CNNs, Optimization)
+- Statistical Learning Theory
+- Efficient Model Design & Generalization
+- Algorithmic System Design
+- Scalable Backend Infrastructure
+- Data-Centric AI & Model Evaluation
 
 ---
 
-## Selected Projects
-- **Mathematically-Informed ML Classification:** Implemented classification & regression models with careful feature engineering and error analysis  
-- **Doctor-Patient Web App:** Full-stack platform with **robust authentication, data consistency, and algorithmic scheduling**  
-- **Full-Stack eCommerce System:** Optimized ordering and payment flows with **algorithmic efficiency and secure data handling**  
+## 🧠 Mathematical Foundations
+
+Self-studied advanced mathematics across 50+ texts covering:
+
+- Linear Algebra (Vector spaces, eigen decomposition, SVD)
+- Probability Theory & Statistics
+- Combinatorics & Discrete Mathematics
+- Graph Theory
+- Optimization & Calculus for ML
+
+I believe strong AI systems are built on mathematical depth — not just libraries.
 
 ---
 
-## Connect
-GitHub: [https://github.com/Haji-Suleman](https://github.com/Haji-Suleman)  
-LinkedIn: [https://www.linkedin.com/in/haji-suleman-553753369/](https://www.linkedin.com/in/haji-suleman-553753369/)  
+## 🛠 Tech Stack
 
-⚡ **Building systems with math, algorithms, and scalable engineering as the foundation.**
+### AI / ML
+Python, NumPy, Pandas, Matplotlib, Seaborn  
+PyTorch, Scikit-learn  
+
+### Backend & Systems
+Node.js, NestJS, Express.js  
+REST APIs, Authentication Systems  
+
+### Databases
+MongoDB, MySQL  
+
+### Frontend
+React.js, HTML, CSS, Tailwind  
+
+### Languages
+Python, C++, JavaScript, TypeScript  
+
+---
+
+## 🚀 Selected Projects
+
+### 🧠 CNN-Based Medical Image Classification  
+Designed and trained convolutional neural networks for medical image classification.  
+Implemented proper train-test evaluation, error analysis, and model performance visualization.
+
+### 🏥 Doctor–Patient Full-Stack Platform  
+Built a production-ready web application with:
+- Secure authentication & authorization  
+- Structured API design  
+- Algorithmic appointment scheduling  
+- Data consistency handling  
+
+### 🛒 Full-Stack eCommerce System  
+Developed scalable ordering and payment workflows with secure backend logic and optimized database queries.
+
+---
+
+## 🧩 Currently Exploring
+
+- Transfer Learning & CNN Fine-Tuning  
+- Model Interpretability (Grad-CAM)  
+- Advanced TypeScript & System Design  
+- Optimization Methods in Deep Learning  
+
+---
+
+## 📌 Philosophy
+
+I aim to design systems that are:
+
+- Mathematically sound  
+- Algorithmically efficient  
+- Scalable by architecture  
+- Production-ready by design  
+
+---
+
+## 🌐 Connect
+
+GitHub: https://github.com/Haji-Suleman  
+LinkedIn: https://www.linkedin.com/in/haji-suleman-553753369/
+
+---
+
+⚡ Building intelligent systems where mathematics meets scalable engineering.
