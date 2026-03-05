@@ -1,102 +1,134 @@
 # Hi, I’m Haji Suleman 👋  
-🚀 AI Systems Engineer in Training | Backend Architect | Mathematical Computing  
+**Machine Learning Engineer in Training | Mathematical Computing | AI Systems**
 
-I build **scalable backend systems** and integrate **machine learning models** grounded in strong mathematical foundations.  
-My focus lies at the intersection of **deep learning, optimization, and production-grade engineering**.
+I develop **machine learning systems grounded in mathematics and implemented with production-grade engineering practices.**  
+My work focuses on building models that are **statistically sound, computationally efficient, and practically deployable**.
 
-> I approach software and AI with mathematical rigor, algorithmic clarity, and architectural discipline.
+I am particularly interested in the **theoretical foundations of machine learning**, including optimization, generalization, and model evaluation.
+
+Currently studying and implementing concepts from  
+**Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow by Aurélien Géron**.
 
 ---
 
-## 🎯 Research & Technical Interests
+# 🎯 Research & Technical Interests
 
-- Deep Learning Architectures (CNNs, Optimization)
+- Deep Learning Architectures (CNNs)
+- Optimization in Machine Learning
 - Statistical Learning Theory
-- Efficient Model Design & Generalization
-- Algorithmic System Design
-- Scalable Backend Infrastructure
-- Data-Centric AI & Model Evaluation
+- Model Generalization & Evaluation
+- Efficient Model Design
+- Data-Centric AI
+- AI System Engineering
 
 ---
 
-## 🧠 Mathematical Foundations
+# 🧠 Mathematical Foundations
 
-Self-studied advanced mathematics across 50+ texts covering:
+I actively study the mathematical principles underlying modern machine learning, including:
 
-- Linear Algebra (Vector spaces, eigen decomposition, SVD)
-- Probability Theory & Statistics
-- Combinatorics & Discrete Mathematics
+- Linear Algebra (vector spaces, eigenvalues, SVD)
+- Probability Theory & Mathematical Statistics
+- Calculus & Optimization for ML
+- Discrete Mathematics & Combinatorics
 - Graph Theory
-- Optimization & Calculus for ML
 
-I believe strong AI systems are built on mathematical depth — not just libraries.
+My approach to machine learning prioritizes **mathematical understanding over purely library-driven implementation.**
 
 ---
 
-## 🛠 Tech Stack
+# 📚 Current Study
 
-### AI / ML
-Python, NumPy, Pandas, Matplotlib, Seaborn  
-PyTorch, Scikit-learn  
+- Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow — Aurélien Géron
+- Practical machine learning model evaluation and diagnostics
+- Neural network training and optimization
+- Data preprocessing and feature engineering
 
-### Backend & Systems
-Node.js, NestJS, Express.js  
-REST APIs, Authentication Systems  
+---
+
+# 🛠 Technical Stack
+
+### Machine Learning
+Python  
+NumPy • Pandas • Matplotlib  
+PyTorch • Scikit-learn  
+
+### Backend Engineering
+Node.js • NestJS • Express.js  
+REST API Design  
+Authentication & Authorization Systems  
 
 ### Databases
-MongoDB, MySQL  
+MongoDB • MySQL  
 
 ### Frontend
-React.js, HTML, CSS, Tailwind  
+React • HTML • CSS • Tailwind  
 
 ### Languages
-Python, C++, JavaScript, TypeScript  
+Python • C++ • TypeScript • JavaScript  
 
 ---
 
-## 🚀 Selected Projects
+# 🚀 Selected Projects
 
-### 🧠 CNN-Based Medical Image Classification  
-Designed and trained convolutional neural networks for medical image classification.  
-Implemented proper train-test evaluation, error analysis, and model performance visualization.
+## 🧠 Medical Image Classification with CNNs
+Developed convolutional neural network models for medical image classification using **PyTorch**.
 
-### 🏥 Doctor–Patient Full-Stack Platform  
-Built a production-ready web application with:
-- Secure authentication & authorization  
-- Structured API design  
-- Algorithmic appointment scheduling  
-- Data consistency handling  
+Key work included:
 
-### 🛒 Full-Stack eCommerce System  
-Developed scalable ordering and payment workflows with secure backend logic and optimized database queries.
+- Data preprocessing and normalization
+- Model training and hyperparameter tuning
+- Precision/recall analysis and model evaluation
+- Visualization of prediction errors and model performance
 
 ---
 
-## 🧩 Currently Exploring
+## 🏥 Doctor–Patient Full-Stack Platform
+Built a complete web application supporting interaction between doctors and patients.
 
-- Transfer Learning & CNN Fine-Tuning  
-- Model Interpretability (Grad-CAM)  
-- Advanced TypeScript & System Design  
-- Optimization Methods in Deep Learning  
+Key features:
 
----
-
-## 📌 Philosophy
-
-I aim to design systems that are:
-
-- Mathematically sound  
-- Algorithmically efficient  
-- Scalable by architecture  
-- Production-ready by design  
+- Secure authentication and authorization
+- Structured REST API architecture
+- Appointment request management
+- Reliable backend data handling
 
 ---
 
-## 🌐 Connect
-
-GitHub: https://github.com/Haji-Suleman  
-LinkedIn: https://www.linkedin.com/in/haji-suleman-553753369/
+## 🛒 Full-Stack eCommerce Platform
+Implemented a scalable backend system for online ordering and payments with optimized database queries and structured API design.
 
 ---
 
-⚡ Building intelligent systems where mathematics meets scalable engineering.
+# 🔬 Currently Exploring
+
+- Transfer Learning for CNNs
+- Model Interpretability (Grad-CAM)
+- Optimization Algorithms in Deep Learning
+- Advanced TypeScript and scalable backend architecture
+- Machine Learning evaluation metrics and diagnostics
+
+---
+
+# 📌 Engineering Philosophy
+
+I aim to build machine learning systems that are:
+
+- **Mathematically grounded**
+- **Algorithmically efficient**
+- **Carefully evaluated**
+- **Engineered for real-world deployment**
+
+---
+
+# 🌐 Connect
+
+GitHub  
+https://github.com/Haji-Suleman  
+
+LinkedIn  
+https://www.linkedin.com/in/haji-suleman-553753369/
+
+---
+
+⚡ *Exploring the intersection of mathematics, machine learning, and scalable software systems.*
